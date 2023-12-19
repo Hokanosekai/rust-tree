@@ -2,8 +2,6 @@
 
 This is a simple project to help me learn Rust. It's a program that will create a tree of the path you give it.
 
-This project is based on my repo [Rust Tree](https://github.com/Hokanosekai/rust-tree).
-
 ## Usage
 
 ```bash
